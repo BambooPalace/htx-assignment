@@ -1,0 +1,50 @@
+{"id": "q1", "input": "What is the leave policy?", "expected": "14 days annual leave"}
+{"id": "q2", "input": "Who approves travel claims?", "expected": "Direct manager"}
+{"id": "q3", "input": "How do I submit an expense report?", "expected": "Use the finance portal by month end"}
+{"id": "q4", "input": "What is the dress code?", "expected": "Business casual on weekdays"}
+{"id": "q5", "input": "When is payday?", "expected": "Last working day of each month"}
+{"id": "q6", "input": "How many sick days do employees get?", "expected": "10 sick days per year"}
+{"id": "q7", "input": "Who handles IT support tickets?", "expected": "IT helpdesk team"}
+{"id": "q8", "input": "What is the probation period?", "expected": "3 months for new hires"}
+{"id": "q9", "input": "Can I work remotely?", "expected": "Up to 2 days per week with approval"}
+{"id": "q10", "input": "How do I request overtime?", "expected": "Submit OT form to your manager"}
+{"id": "q11", "input": "What benefits are included?", "expected": "Medical, dental, and vision coverage"}
+{"id": "q12", "input": "Where is the employee handbook?", "expected": "Available on the intranet HR page"}
+{"id": "q13", "input": "How do I update my bank details?", "expected": "Update via the payroll self-service portal"}
+{"id": "q14", "input": "Who is my HR business partner?", "expected": "Assigned HRBP listed in your profile"}
+{"id": "q15", "input": "What is the notice period for resignation?", "expected": "1 month for staff, 2 months for managers"}
+{"id": "q16", "input": "How do I book a meeting room?", "expected": "Use the office booking system"}
+{"id": "q17", "input": "What is the annual bonus cycle?", "expected": "Bonuses are reviewed in Q1"}
+{"id": "q18", "input": "Who approves training requests?", "expected": "Manager and L&D team"}
+{"id": "q19", "input": "How do I access learning courses?", "expected": "Through the LMS platform"}
+{"id": "q20", "input": "What is the whistleblowing channel?", "expected": "Email ethics@company.com"}
+{"id": "q21", "input": "How do I report workplace harassment?", "expected": "Contact HR or use the anonymous hotline"}
+{"id": "q22", "input": "What is the maternity leave entitlement?", "expected": "16 weeks paid maternity leave"}
+{"id": "q23", "input": "What is the paternity leave entitlement?", "expected": "2 weeks paid paternity leave"}
+{"id": "q24", "input": "How do I claim transport allowance?", "expected": "Submit monthly claim with receipts"}
+{"id": "q25", "input": "What is the mobile phone policy?", "expected": "Company phones for eligible roles only"}
+{"id": "q26", "input": "Who approves purchase orders?", "expected": "Department head and finance"}
+{"id": "q27", "input": "How do I reset my password?", "expected": "Use the SSO self-service reset page"}
+{"id": "q28", "input": "What is the data retention policy?", "expected": "Employee records kept for 7 years"}
+{"id": "q29", "input": "How do I request a reference letter?", "expected": "Submit request to HR with manager approval"}
+{"id": "q30", "input": "What is the flexible benefits cap?", "expected": "SGD 500 annual flex budget"}
+{"id": "q31", "input": "Who manages vendor contracts?", "expected": "Procurement team"}
+{"id": "q32", "input": "How do I escalate a payroll issue?", "expected": "Raise a ticket with payroll support"}
+{"id": "q33", "input": "What is the code of conduct?", "expected": "Published in the ethics policy document"}
+{"id": "q34", "input": "How do I apply for internal transfer?", "expected": "Apply via internal careers portal"}
+{"id": "q35", "input": "What is the performance review cycle?", "expected": "Mid-year and year-end reviews"}
+{"id": "q36", "input": "Who approves leave during peak season?", "expected": "Manager and department director"}
+{"id": "q37", "input": "How do I access payslips?", "expected": "Download from payroll portal"}
+{"id": "q38", "input": "What is the travel class policy?", "expected": "Economy for flights under 6 hours"}
+{"id": "q39", "input": "How do I request a laptop replacement?", "expected": "Submit IT asset request form"}
+{"id": "q40", "input": "What is the gift and hospitality limit?", "expected": "SGD 50 per occasion"}
+{"id": "q41", "input": "Who handles visa sponsorship?", "expected": "Global mobility team"}
+{"id": "q42", "input": "How do I enroll dependents in insurance?", "expected": "Update dependents in benefits portal"}
+{"id": "q43", "input": "What is the work-from-home equipment policy?", "expected": "One monitor and chair allowance"}
+{"id": "q44", "input": "How do I report a security incident?", "expected": "Contact the security operations center"}
+{"id": "q45", "input": "What is the conflict of interest policy?", "expected": "Disclose conflicts to compliance team"}
+{"id": "q46", "input": "How do I request a certificate of employment?", "expected": "Submit form to HR operations"}
+{"id": "q47", "input": "What is the parking allocation process?", "expected": "Balloted quarterly by facilities"}
+{"id": "q48", "input": "Who approves marketing spend?", "expected": "Marketing head and finance controller"}
+{"id": "q49", "input": "How do I join the employee resource group?", "expected": "Register on the ERG portal"}
+{"id": "q50", "input": "What is the exit interview process?", "expected": "HR schedules interview on last working week"}
