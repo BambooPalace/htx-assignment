@@ -3,10 +3,12 @@
 A lightweight evaluation pipeline for testing a mock end-to-end chat system (`/chat`) and an OpenAI-compatible judge model (`/model`).
 
 ## Author's notes
-When using LLM as a judge, it s key to ensure this step is trust worthy and accurate. In reality it will take some time to choose a suitable evaluating model and fix a prompt template. A real person need to act as the expert judge of the accuracy of this step, by manually label the prediction against the expected answers with ~ 5-10% of test dataset. You dont need to start with a best reasoning model for this step as it depends case by case on the data complexity. A working LLM model to achieve your desired accuracy (>95%) against the human labelor is sufficient. 
+When using LLM as a judge, it s key to ensure this step is trust worthy and accurate. In reality it will take some time to choose a suitable evaluating model and fix a prompt template. 
 
-In this demo, i m unable to demonstrate above process due to the assumptions the model and evalaution prompt is fixed. 
+A real person need to act as the expert judge of the accuracy of this step, by manually label the prediction against the expected answers with ~ 5-10% of test dataset. You dont need to start with a best reasoning model for this step as it depends case by case on the data complexity. A working LLM model to achieve your desired accuracy (>95%) against the human labelor is sufficient. 
+(In this demo, i m unable to demonstrate above process due to the assumptions the model and evalaution prompt is fixed. )
 
+It s worth mentioning it s key to ask LLM judge to output binary labels instead on scores on scales, which cause instability due to model indeterministic nature. Use majority votes out of multiple runs also help to reduce the output randomness.
 
 
 ## What it does
@@ -91,4 +93,3 @@ pytest
 - Add semantic similarity scoring alongside LLM-as-judge.
 - Persist structured experiment metadata (model version, prompt hash, timestamps).
 - Add CI workflow and integration tests against a test server fixture.
-- Do not expose intermediate retrieval fields in production APIs; capture them via structured logging instead.
